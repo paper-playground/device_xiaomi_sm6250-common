@@ -29,12 +29,6 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-    name: "audio_policy_volumes.xml",
-    src: "audio_policy_volumes.xml",
-    vendor: true,
-}
-
-prebuilt_etc {
     name: "mixer_paths_wcd937x.xml",
     src: "mixer_paths_wcd937x.xml",
     vendor: true,
