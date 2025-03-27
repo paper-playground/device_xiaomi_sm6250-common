@@ -35,12 +35,6 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-    name: "bluetooth_audio_policy_configuration_7_0.xml",
-    src: "bluetooth_audio_policy_configuration_7_0.xml",
-    vendor: true,
-}
-
-prebuilt_etc {
     name: "mixer_paths_wcd937x.xml",
     src: "mixer_paths_wcd937x.xml",
     vendor: true,
