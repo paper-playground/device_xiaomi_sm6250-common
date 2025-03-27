@@ -2,7 +2,6 @@
 # mojito: V14.0.9.0.SKGMIXM (MOJITOGlobal)
 # sunstone: OS1.0.9.0.UMQMIXM (SUNSTONEGlobal)
 # vayu: V14.0.3.0.TJUMIXM (VAYUGlobal)
-# cheetah: cheetah-user-15-AP3A.241005.015-12366759-release-keys
 
 # ACDB
 vendor/etc/acdbdata/IDP/IDP_Bluetooth_cal.acdb
@@ -91,9 +90,6 @@ vendor/lib/soundfx/libqcbassboost.so
 vendor/lib/soundfx/libqcreverb.so
 vendor/lib/soundfx/libqcvirt.so
 vendor/lib/soundfx/libshoebox.so
-
-# Audio (Spatial audio) - from cheetah
-vendor/lib/soundfx/libspatialaudio.so|1b574e25db97b76b712ddffda6da42c3c5c5df6e
 
 # Battery
 vendor/bin/batterysecret
